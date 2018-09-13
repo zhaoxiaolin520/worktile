@@ -1,0 +1,154 @@
+{
+  "all": [
+    {
+      "title": "12121",
+      "id": "j7c0shgs",
+      "start": "20180828",
+      "end": "20180829",
+      "fz": "会议安排",
+      "op": 1,
+      "cur": "yellow",
+      "type": "all"
+    },
+    {
+      "title": "1212",
+      "id": "vi41283y",
+      "start": "2018096",
+      "end": "2018097",
+      "cur": "skyblue",
+      "type": "my"
+    },
+    {
+      "title": "121212",
+      "id": "ldujwl8c",
+      "start": "2018096",
+      "end": "2018097",
+      "cur": "yellowgreen",
+      "type": "members"
+    },
+    {
+      "title": "121212",
+      "id": "upqgbxl5",
+      "start": "2018091",
+      "end": "2018092",
+      "fz": "12",
+      "op": 1,
+      "cur": "red",
+      "type": "all"
+    },
+    {
+      "title": "12121",
+      "id": "fqwqbeu2",
+      "start": "2018091",
+      "end": "2018092",
+      "fz": "会议安排",
+      "op": 1,
+      "cur": "yellow",
+      "type": "all"
+    },
+    {
+      "title": "121212",
+      "id": "j4t01rk0",
+      "start": "2018095",
+      "end": "2018096",
+      "fz": "会议安排",
+      "op": 1,
+      "cur": "yellow",
+      "type": "all"
+    },
+    {
+      "title": "121212",
+      "id": "jkw2uzy1",
+      "start": "20180914",
+      "end": "20180915",
+      "fz": "会议安排",
+      "op": 1,
+      "cur": "yellow",
+      "type": "all"
+    },
+    {
+      "title": "232323",
+      "id": "vqm5lq1t",
+      "start": "20180914",
+      "end": "20180915",
+      "fz": "会议安排",
+      "op": 1,
+      "cur": "yellow",
+      "type": "all"
+    },
+    {
+      "title": "5656565",
+      "id": "530uv7z7",
+      "start": "2018097",
+      "end": "2018098",
+      "fz": "12",
+      "op": 1,
+      "cur": "red",
+      "type": "all"
+    },
+    {
+      "title": "23232",
+      "id": "wuiz7zvl",
+      "start": "20180918",
+      "end": "20180919",
+      "fz": "12",
+      "op": 1,
+      "cur": "red",
+      "type": "all"
+    },
+    {
+      "title": "12121",
+      "id": "1dmwwhr2",
+      "start": "2018097",
+      "end": "2018098",
+      "fz": "12",
+      "op": 1,
+      "cur": "red",
+      "type": "all"
+    },
+    {
+      "title": "2323232",
+      "id": "z6t5w1gr",
+      "start": "2018097",
+      "end": "2018098",
+      "fz": "会议安排",
+      "op": 1,
+      "cur": "yellow",
+      "type": "all"
+    },
+    {
+      "title": "5656565",
+      "id": "kiuc2mmc",
+      "start": "20180921",
+      "end": "20180922",
+      "fz": "会议安排",
+      "op": 1,
+      "cur": "yellow",
+      "type": "all"
+    },
+    {
+      "title": "12121",
+      "id": "v8o93v03",
+      "start": "20180921",
+      "end": "20180922",
+      "fz": "会议安排",
+      "op": 1,
+      "cur": "yellow",
+      "type": "all"
+    }
+  ],
+  "type": [
+    {
+      "id": 1,
+      "title": "会议安排",
+      "color": "yellow",
+      "cur": true
+    },
+    {
+      "id": 2,
+      "title": "12",
+      "color": "red",
+      "cur": true
+    }
+  ]
+}
