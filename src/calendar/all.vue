@@ -340,7 +340,7 @@
         border: 1px solid #f3f3f3;
     }
     .fc-unthemed tbody tr td:first-child, .fc-unthemed tbody tr td:last-child {
-        background: url('../../dist/calendar-rest-bg.png');
+        background: url('../assets/calendar-rest-bg.png');
     }
     .schedule {
         width: 100%;

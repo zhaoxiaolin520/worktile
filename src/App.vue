@@ -4,7 +4,7 @@
             <!--上方图标-->
             <div class="top-area">
                 <a href="javascript:;" class="team-logo">
-                    <img src="../dist/team_logo_default.png">
+                    <img src="./assets/team_logo_default.png">
                 </a>
             </div>
             <!--中间-->
